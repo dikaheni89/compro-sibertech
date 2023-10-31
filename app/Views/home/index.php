@@ -97,6 +97,79 @@ $layanan = $menu->layanan();
     <img src="<?= base_url() ?>/assets/frontend/images/shape/shape_35.svg" alt="" class="shapes bg-shape">
   </div>
 
+  <div class="pricing-section-two position-relative mt-150 mb-180 lg-mt-80 lg-mb-80">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-xl-7 col-lg-6 col-md-8 m-auto">
+          <div class="title-style-one text-center mb-20" data-aos="fade-up">
+            <div class="sc-title-five">List Harga</div>
+            <h2 class="main-title">Paket Sibernet.</h2>
+          </div> <!-- /.title-style-one -->
+        </div>
+      </div>
+      <div class="pricing-table-area-two">
+        <div class="row">
+          <div class="col-xxl-10 m-auto">
+            <div class="row justify-content-center">
+              <div class="col-lg-3 col-sm-6" data-aos="fade-right">
+                <div class="pr-table-wrapper tran3s mt-40">
+                  <div class="pack-name">Premium</div>
+                  <div class="price" style="font-size: 40px;"><sup>Rp. </sup>155. <sup>000</sup></div>
+                  <ul class="pr-feature style-none">
+                    <li>5 Mbps</li>
+                    <li>Monthly</li>
+                    <li>Full Support</li>
+                  </ul>
+                  <a href="#" class="btn-seven w-100 mt-50">Berlangganan</a>
+                </div> <!-- /.pr-table-wrapper -->
+              </div>
+
+              <div class="col-lg-3 col-sm-6" data-aos="fade-up" data-aos-delay="100">
+                <div class="pr-table-wrapper tran3s mt-40 active">
+                  <div class="pack-name">Profesional</div>
+                  <div class="price" style="font-size: 40px;"><sup>Rp. </sup>192. <sup>000</sup></div>
+                  <ul class="pr-feature style-none">
+                    <li>10 Mbps</li>
+                    <li>Monthly</li>
+                    <li>Full Support</li>
+                  </ul>
+                  <a href="#" class="btn-seven w-100 mt-50">Berlangganan</a>
+                </div> <!-- /.pr-table-wrapper -->
+              </div>
+
+              <div class="col-lg-3 col-sm-6" data-aos="fade-left">
+                <div class="pr-table-wrapper tran3s mt-40">
+                  <div class="pack-name">Enterprise</div>
+                  <div class="price" style="font-size: 40px;"><sup>Rp. </sup>242. <sup>000</sup></div>
+                  <ul class="pr-feature style-none">
+                    <li>20 Mbps</li>
+                    <li>Monthly</li>
+                    <li>Full Support</li>
+                  </ul>
+                  <a href="#" class="btn-seven w-100 mt-50">Berlangganan</a>
+                </div> <!-- /.pr-table-wrapper -->
+              </div>
+
+              <div class="col-lg-3 col-sm-6" data-aos="fade-left">
+                <div class="pr-table-wrapper tran3s mt-40">
+                  <div class="pack-name">Ultimate</div>
+                  <div class="price" style="font-size: 40px;"><sup>Rp. </sup>333. <sup>000</sup></div>
+                  <ul class="pr-feature style-none">
+                    <li>30 Mbps</li>
+                    <li>Monthly</li>
+                    <li>Full Support</li>
+                  </ul>
+                  <a href="#" class="btn-seven w-100 mt-50">Berlangganan</a>
+                </div> <!-- /.pr-table-wrapper -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> <!-- /.pricing-table-area-two -->
+    </div>
+    <img src="<?= base_url() ?>/assets/frontend/images/shape/shape_34.svg" alt="" class="shapes shape-one">
+  </div>
+
   <?php include 'berita.php'; ?>
   <?php include 'client.php'; ?>
 
