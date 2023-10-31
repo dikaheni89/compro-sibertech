@@ -10,6 +10,9 @@
 [![GitHub license](https://img.shields.io/github/license/dikaheni89/compro-sibertech)](https://github.com/codeigniter4/CodeIgniter4/blob/develop/LICENSE)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dikaheni89/compro-sibertech/pulls)
 
+## Support me buy my coffee
+<a href="https://trakteer.id/digitalsoftware/link" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-3.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+
 Semoga bermanfaat.
 Spesifikasi Teknis Source Code
 Website ini dikembangkan dengan beberapa spesifikasi:
@@ -56,8 +59,3 @@ Website ini dikembangkan dengan beberapa spesifikasi:
 3. Untuk Login ke halaman Back End, silakan buka http://domainkamu.com/login
 4. Username: admin123
 5. Password: admin123
-
-## Support me buy my coffee
-<a href="https://trakteer.id/digitalsoftware/link" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-3.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
-
-# CodeIgniter 4 Framework
