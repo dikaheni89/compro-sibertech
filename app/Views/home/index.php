@@ -14,7 +14,7 @@ $layanan = $menu->layanan();
           <h1 class="hero-heading">Get Unlimited Internet Access, <span>100% NO FUP!</span></h1>
           <p class="text-lg mb-50 pt-40 pe-xl-5 md-pt-30 md-mb-40">Kecepatan Stabil, Harga Terjangkau, Tim Support 24/7, dan Tanpa FUP. Segera Berlangganan Sekarang Juga!</p>
           <ul class="style-none button-group d-flex align-items-center">
-            <li class="me-4"><a href="contact-us.html" class="demo-btn ripple-btn tran3s">Subcription</a></li>
+            <li class="me-4"><a href="contact-us.html" class="demo-btn ripple-btn tran3s">Berlangganan</a></li>
             <li><a class="fancybox video-icon tran3s" data-fancybox="" href="#"><i class="fas fa-play"></i></a></li>
           </ul>
         </div>
