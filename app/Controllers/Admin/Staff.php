@@ -84,7 +84,7 @@ class Staff extends BaseController
 
             return redirect()->to(base_url('admin/staff'));
         }
-        $data = ['title'     => 'Data Staff: ' . $total['total'],
+        $data = ['title'     => 'Data Staff: ' . 0,
             'staff'          => $staff,
             'kategori_staff' => $kategori_staff,
             'content'        => 'admin/staff/index',

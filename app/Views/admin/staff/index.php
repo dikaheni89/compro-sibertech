@@ -25,7 +25,7 @@ foreach ($staff as $staff) { ?>
 			<td><?= $staff['nama'] ?>
 				<small>
 					<br><i class="fa fa-sitemap"></i> Jenis: <?= $staff['nama_kategori_staff'] ?>
-					<br><i class="fa fa-home"></i> Urut: <?= $staff['urutan'] ?>
+					<br><i class="fa fa-home"></i> Urut: 0
 				</small>
 			</td>
 			<td><?= $staff['jabatan'] ?></td>
