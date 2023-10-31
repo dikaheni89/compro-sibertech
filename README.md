@@ -18,7 +18,7 @@ Spesifikasi Teknis Source Code
 Website ini dikembangkan dengan beberapa spesifikasi:
 1. Dikembangan dengan Codeigniter 4. Pastikan teman-teman membaca Server Requirements dari CI4 ini yah.
 2. Template Admin menggunakan AdminLTE 3.1.0. Bisa diakses di https://adminlte.io/
-3. Template front end menggunakan Medicio 4.0 dari https://bootstrapmade.com/medicio-free-bootstrap-theme/.
+3. Template front end menggunakan sinco dark 4.0
 4. Notifikasi menggunakan Sweetalert
 
 # Fitur-fitur Website meliputi:
