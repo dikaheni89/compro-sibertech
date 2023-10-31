@@ -61,7 +61,7 @@ $menu_layanan = $menu->layanan();
                 <ul class="navbar-nav">
                   <li class="d-block d-lg-none"><div class="logo"><a href="<?= base_url() ?>"><img src="<?= base_url('assets/upload/image/' . $site['logo']) ?>" alt="<?= $site['namaweb'] ?>" width="130"></a></div></li>
                     <li class="nav-item active dropdown">
-                      <a class="nav-link" href="<?= base_url('download') ?>" role="button">Home</a>
+                      <a class="nav-link" href="<?= base_url('') ?>" role="button">Home</a>
                       <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Profil</a>
                         <ul class="dropdown-menu">
